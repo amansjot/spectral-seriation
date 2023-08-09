@@ -4,9 +4,9 @@
 
 ## Usage
 
-Download and run the code in **/src/convergence.py** to view the results that appear in the poster (linked above). The other files are helper or test functions for the main program or separate files related to the concept of spectral seriation.
+Download and run the code in **/src/convergence.py** to view the results that appear in the poster (linked above).
 
-For instance, running **/src/plot_3d.py** will display a plot of any inputted 3D graphon.
+The other files are helper or test functions for the main program or separate files related to the concept of spectral seriation. For instance, running **/src/plot_3d.py** will display a plot of any inputted 3D graphon.
 
 ## Purpose
 
