@@ -108,6 +108,7 @@ if __name__ == '__main__':
         test_convergence(U, phi, trials)
 
     # show plot
+    plt.title('Cut Norm Differences vs Matrix Size')
     plt.xlabel('Matrix Size')
     plt.ylabel('Cut Norm Difference')
     plt.show()
